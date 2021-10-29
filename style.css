@@ -63,10 +63,12 @@ body {
 .box_three{
     margin: 0px;
 }
+@media all and (max-width:576px) {
+  .marksheet {
+	width: 93%;
+}
 @media all and (max-width:480px) {
   .marksheet {
 	width: 93%;
-	border: 2px solid black;
-	margin: 0 auto;
-	margin-top: 25px;
+	margin-top:10px;
 }
