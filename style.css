@@ -67,8 +67,11 @@ body {
   .marksheet {
 	width: 93%;
 }
+}
 @media all and (max-width:480px) {
   .marksheet {
 	width: 93%;
 	margin-top:10px;
 }
+	}
+	
